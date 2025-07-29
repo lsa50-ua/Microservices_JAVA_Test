@@ -1,0 +1,7 @@
+com\Luis\fraud\FraudController.class
+com\Luis\fraud\FraudApplication.class
+com\Luis\fraud\FraudCheckResponse.class
+com\Luis\fraud\FraudCheckHistoryRepository.class
+com\Luis\fraud\FraudCheckHistory.class
+com\Luis\fraud\FraudCheckService.class
+com\Luis\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class

@@ -1,0 +1,9 @@
+com\Luis\customer\CustomerConfig.class
+com\Luis\customer\CustomerRegistrationRequest.class
+com\Luis\customer\CustomerService.class
+com\Luis\customer\CustomerApplication.class
+com\Luis\customer\Customer$CustomerBuilder.class
+com\Luis\customer\CustomerRepository.class
+com\Luis\customer\Customer.class
+com\Luis\customer\CustomerController.class
+com\Luis\customer\FraudCheckResponse.class
